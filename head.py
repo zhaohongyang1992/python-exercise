@@ -1,5 +1,9 @@
 #! /usr/bin/env python3
 
+"""usage: cat test | ./head.py 4
+
+"""
+
 import sys
 
 try:

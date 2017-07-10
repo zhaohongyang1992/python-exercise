@@ -1,2 +1,2 @@
 # python-exercise
-## python ÃæÊÔ¼°Á·Ï°Ìâ
+## python é¢è¯•åŠç»ƒä¹ 

@@ -1,0 +1,12 @@
+## File List
+-  day_of_year.py£ºThe function to return the day of the year for that date
+-  test_day_of_year.py: Unit test
+-  test_data.json: The data used in unit test
+
+## Environment
+- Python 3.6
+
+## Run Unit Test
+- Unzip file:  `unzip tech_exercise_zhaohongyang.zip`
+- Enter directory: `cd tech_exercise_zhaohongyang`
+- Run unit test: `python3 test_day_of_year.py`

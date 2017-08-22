@@ -1,0 +1,100 @@
+{
+    "0":{
+        "year": 2014,
+        "month": 8,
+        "day": 10,
+        "result": 222,
+        "msg": "a random day"
+    },
+    "1":{
+        "year": 2017,
+        "month": 1,
+        "day": 1,
+        "result": 1,
+        "msg": "common year, the first day"
+    },
+    "2":{
+        "year": 2017,
+        "month": 12,
+        "day": 31,
+        "result": 365,
+        "msg": "common year, the last day"
+    },
+    "3":{
+        "year": 2012,
+        "month": 12,
+        "day": 31,
+        "result": 366,
+        "msg": "leap year, the last day"
+    },
+    "4":{
+        "year": 2012,
+        "month": 2,
+        "day": 29,
+        "result": 60,
+        "msg": "leap year, Fan 29st"
+    },
+    "5":{
+        "year": 2000,
+        "month": 3,
+        "day": 1,
+        "result": 61,
+        "msg": "leap year, 400 times"
+    },
+    "6":{
+        "year": 1900,
+        "month": 3,
+        "day": 1,
+        "result": 60,
+        "msg": "common year, 100 times"
+    },
+    "7":{
+        "year": 2013,
+        "month": 2,
+        "day": 29,
+        "result": -1,
+        "msg": "common year, Fan 29st, return -1 represent error input"
+    },
+    "8":{
+        "year": -20,
+        "month": 2,
+        "day": 29,
+        "result": -1,
+        "msg": "error year, return -1 represent error input"
+    },
+    "9":{
+        "year": 2013,
+        "month": 14,
+        "day": 29,
+        "result": -1,
+        "msg": "error month, return -1 represent error input"
+    },
+    "10":{
+        "year": 2013,
+        "month": 14,
+        "day": 29,
+        "result": -1,
+        "msg": "error month, return -1 represent error input"
+    },
+    "11":{
+        "year": 2013,
+        "month": 10,
+        "day": 38,
+        "result": -1,
+        "msg": "error month, return -1 represent error input"
+    },
+    "12":{
+        "year": "aaa",
+        "month": 10,
+        "day": 30,
+        "result": -1,
+        "msg": "a string type year, return -1 represent error input"
+    },
+    "13":{
+        "year": 2014,
+        "month": 10,
+        "day": 30.5,
+        "result": -1,
+        "msg": "a float type day, return -1 represent error input"
+    }
+}
